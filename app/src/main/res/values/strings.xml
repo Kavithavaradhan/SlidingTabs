@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SlidingTabs</string>
+    <string name="tab_text_1">Article</string>
+    <string name="tab_text_2">Idea</string>
+    <string name="tab_text_3">Queries</string>
+    <string name="tab_text_4">Academic</string>
+    <string name="tab_text_5">Non-Academic</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
