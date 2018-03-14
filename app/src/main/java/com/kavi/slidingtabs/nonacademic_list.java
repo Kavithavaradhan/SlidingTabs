@@ -18,16 +18,15 @@ import java.util.List;
  * Created by kavi on 9/3/18.
  */
 
-public class idealist extends ArrayAdapter<idea> {
+public class nonacademic_list extends ArrayAdapter<nonacademicupdate> {
 
     private Activity context;
-    private List<idea> ideaList;
-    int counter = 0;
+    private List<nonacademicupdate> InfoList;
 
-    public idealist(Activity context, List<idea> ideaList){
-        super(context,R.layout.idea_list,ideaList);
+    public nonacademic_list(Activity context, List<nonacademicupdate> InfoList){
+        super(context, R.layout.nonacademic_list, InfoList);
         this.context = context;
-        this.ideaList = ideaList;
+        this.InfoList= InfoList;
 
     }
 
@@ -37,23 +36,20 @@ public class idealist extends ArrayAdapter<idea> {
 
         LayoutInflater inflater = context.getLayoutInflater();
 
-        final View listviewitem = inflater.inflate(R.layout.idea_list, null, true);
+        final View listviewitem = inflater.inflate(R.layout.nonacademic_list, null, true);
 
-        TextView textViewidea = (TextView) listviewitem.findViewById(R.id.textidealine);
+        TextView textInfo = (TextView) listviewitem.findViewById(R.id.nonacline);
 
-        idea idea = ideaList.get(position);
+        nonacademicupdate non = InfoList.get(position);
 
-        textViewidea.setText(idea.getIdealine());
+        textInfo.setText(non.getNonacline());
 
         final ImageButton likebtn = (ImageButton) listviewitem.findViewById(R.id.likebtn);
-        final TextView getcount = (TextView) listviewitem.findViewById(R.id.getcount);
-
 
         likebtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                counter++;
-                getcount.setText("" + String.valueOf(counter));
+
 
             }
         });

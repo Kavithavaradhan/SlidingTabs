@@ -18,16 +18,15 @@ import java.util.List;
  * Created by kavi on 9/3/18.
  */
 
-public class idealist extends ArrayAdapter<idea> {
+public class article_list extends ArrayAdapter<articleupdate> {
 
     private Activity context;
-    private List<idea> ideaList;
-    int counter = 0;
+    private List<articleupdate> articleList;
 
-    public idealist(Activity context, List<idea> ideaList){
-        super(context,R.layout.idea_list,ideaList);
+    public article_list(Activity context, List<articleupdate> articleList){
+        super(context, R.layout.article_list, articleList);
         this.context = context;
-        this.ideaList = ideaList;
+        this.articleList = articleList;
 
     }
 
@@ -37,23 +36,20 @@ public class idealist extends ArrayAdapter<idea> {
 
         LayoutInflater inflater = context.getLayoutInflater();
 
-        final View listviewitem = inflater.inflate(R.layout.idea_list, null, true);
+        final View listviewitem = inflater.inflate(R.layout.article_list, null, true);
 
-        TextView textViewidea = (TextView) listviewitem.findViewById(R.id.textidealine);
+        TextView textarticle = (TextView) listviewitem.findViewById(R.id.articleline);
 
-        idea idea = ideaList.get(position);
+        articleupdate art = articleList.get(position);
 
-        textViewidea.setText(idea.getIdealine());
+        textarticle.setText(art.getArticleline());
 
         final ImageButton likebtn = (ImageButton) listviewitem.findViewById(R.id.likebtn);
-        final TextView getcount = (TextView) listviewitem.findViewById(R.id.getcount);
-
 
         likebtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                counter++;
-                getcount.setText("" + String.valueOf(counter));
+
 
             }
         });

@@ -2,7 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.kavi.slidingtabs">
 
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -22,7 +21,11 @@
         </activity>
         <activity android:name=".projectidea" />
         <activity android:name=".projectidea" />
-        <activity android:name=".IdeaWrite"></activity>
+        <activity android:name=".IdeaWrite" />
+        <activity android:name=".article_write" />
+        <activity android:name=".article_list" />
+        <activity android:name=".nonacademic_write" />
+        <activity android:name=".nonacademic_list"></activity>
     </application>
 
 </manifest>
