@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

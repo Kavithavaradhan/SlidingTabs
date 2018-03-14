@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
