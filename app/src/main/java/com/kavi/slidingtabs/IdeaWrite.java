@@ -1,5 +1,6 @@
 package com.kavi.slidingtabs;
 
+import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -23,6 +24,7 @@ public class IdeaWrite extends AppCompatActivity {
 
     ImageButton sendbtn;
     EditText projectline;
+    FloatingActionButton fab;
 
     DatabaseReference databaseidea;
 
@@ -34,6 +36,7 @@ public class IdeaWrite extends AppCompatActivity {
 
         databaseidea = FirebaseDatabase.getInstance().getReference("Projectideas");
 
+        fab = (FloatingActionButton) findViewById(R.id.fab);
 
         projectline = (EditText) findViewById(R.id.projectline);
         sendbtn = (ImageButton) findViewById(R.id.sendbtn);
@@ -43,6 +46,13 @@ public class IdeaWrite extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 idea();
+            }
+        });
+
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(IdeaWrite.this,"PDF Format", Toast.LENGTH_SHORT).show();
             }
         });
     }
