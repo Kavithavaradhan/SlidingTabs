@@ -25,7 +25,9 @@
         <activity android:name=".article_write" />
         <activity android:name=".article_list" />
         <activity android:name=".nonacademic_write" />
-        <activity android:name=".nonacademic_list"></activity>
+        <activity android:name=".nonacademic_list" />
+        <activity android:name=".academic_write" />
+        <activity android:name=".academiclist"></activity>
     </application>
 
 </manifest>

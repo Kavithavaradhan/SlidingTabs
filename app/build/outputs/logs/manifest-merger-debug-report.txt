@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/fcde73bf7fd8493098be965ebae434fa/AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/AndroidManifest.xml:17:1-31:12
@@ -35,25 +35,25 @@ MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/ka
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6d8a491324363899aa4fe7ec737fa0c4/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/344ea2876d7f636fa08fd31aa889b192/AndroidManifest.xml:2:1-6:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
-		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
-		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:5:5-29:19
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:5:5-31:19
 MERGED from [com.google.firebase:firebase-core:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/fcde73bf7fd8493098be965ebae434fa/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/fcde73bf7fd8493098be965ebae434fa/AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:design:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/AndroidManifest.xml:25:5-29:19
@@ -163,9 +163,17 @@ ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/ma
 	android:name
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:27:19-52
 activity#com.kavi.slidingtabs.nonacademic_list
-ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:28:9-63
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:28:9-54
 	android:name
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:28:19-51
+activity#com.kavi.slidingtabs.academic_write
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:29:9-52
+	android:name
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:29:19-49
+activity#com.kavi.slidingtabs.academiclist
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:30:9-59
+	android:name
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:30:19-47
 uses-sdk
 INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml

@@ -46,6 +46,8 @@
         <activity android:name="com.kavi.slidingtabs.article_list" />
         <activity android:name="com.kavi.slidingtabs.nonacademic_write" />
         <activity android:name="com.kavi.slidingtabs.nonacademic_list" />
+        <activity android:name="com.kavi.slidingtabs.academic_write" />
+        <activity android:name="com.kavi.slidingtabs.academiclist" />
 
         <meta-data
             android:name="android.support.VERSION"
