@@ -6,100 +6,100 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.1.0-alpha04"
-    timestamp="1521089570928"
+    timestamp="1522504619266"
     token="2772946375484187936"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1091" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="504" />
+        duration="0" />
     <task
         name="verifier"
-        duration="75" />
+        duration="0" />
 
     <artifact
-        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
         location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
         location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
         location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
+        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
         location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
         location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
+    <artifact
+        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1521089570928"
+        timestamp="1522504619266"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
             location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
+            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
+        <artifact
+            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

@@ -7,50 +7,6 @@
     android:layout_height="match_parent"
     >
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_gravity="bottom|end"
-        android:layout_marginBottom="83dp"
-        android:layout_marginEnd="27dp"
-        android:src="@drawable/ic_add" />
-
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/fab"
-        android:layout_gravity="bottom|end"
-        android:layout_marginBottom="166dp"
-        android:src="@drawable/ic_camera"
-        android:visibility="invisible" />
-
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/fab"
-        android:layout_gravity="bottom|end"
-        android:layout_marginBottom="224dp"
-        android:src="@drawable/ic_edit"
-        android:visibility="invisible" />
-
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_alignStart="@+id/fab"
-        android:layout_gravity="bottom|end"
-        android:layout_marginTop="220dp"
-        android:src="@drawable/ic_photo"
-        android:visibility="invisible" />
-
     <ListView
         android:id="@+id/listviewarticle"
         android:layout_width="match_parent"
@@ -58,5 +14,16 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="46dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="108dp"
+        android:layout_marginEnd="42dp"
+        android:clickable="true"
+        app:srcCompat="@drawable/ic_edit" />
 
 </RelativeLayout>

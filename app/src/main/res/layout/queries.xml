@@ -7,36 +7,37 @@
     android:layout_height="match_parent"
     >
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
+    <EditText
+        android:id="@+id/txtusrname"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="51dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="449dp" />
+
+    <Button
+        android:id="@+id/adduser"
+        android:layout_width="96dp"
+        android:layout_height="53dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
-        android:layout_gravity="bottom|end"
-        android:layout_marginBottom="81dp"
-        android:layout_marginEnd="27dp"
-        android:src="@drawable/ic_add" />
+        android:text="Add User"
+        tools:layout_editor_absoluteX="284dp"
+        tools:layout_editor_absoluteY="447dp" />
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab1"
-        android:layout_width="wrap_content"
-        android:layout_height="331dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/fab"
-        android:layout_gravity="bottom|end"
-        android:layout_marginBottom="166dp"
-        android:src="@drawable/ic_camera"
-        android:visibility="invisible" />
+    <ListView
+        android:id="@+id/listuser"
+        android:layout_width="373dp"
+        android:layout_height="431dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="13dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="3dp" />
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignStart="@+id/fab"
-        android:layout_centerVertical="true"
-        android:layout_gravity="bottom|end"
-        android:src="@drawable/ic_edit"
-        android:visibility="invisible" />
+
 
 </RelativeLayout>

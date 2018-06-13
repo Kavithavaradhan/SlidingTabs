@@ -19,7 +19,22 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="action_close">Zavřít</string>
     <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> má potíže se službami Google Play. Zkuste to prosím znovu."</string>
+    <string name="empty_directory_hint">Prázdná složka</string>
     <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="type_apk">APK</string>
+    <string name="type_archive">Archiv</string>
+    <string name="type_certificate">Certifikát</string>
+    <string name="type_directory">Složka</string>
+    <string name="type_document">Soubor</string>
+    <string name="type_drawing">Kresba</string>
+    <string name="type_excel">Tabulka</string>
+    <string name="type_image">Obrázek</string>
+    <string name="type_music">Skladba</string>
+    <string name="type_pdf">PDF dokument</string>
+    <string name="type_power_point">Prezentace</string>
+    <string name="type_video">Video</string>
+    <string name="type_word">Dokument</string>
 </resources>

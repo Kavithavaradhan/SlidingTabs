@@ -27,7 +27,11 @@
         <activity android:name=".nonacademic_write" />
         <activity android:name=".nonacademic_list" />
         <activity android:name=".academic_write" />
-        <activity android:name=".academiclist"></activity>
+        <activity android:name=".academiclist" />
+        <activity
+            android:name=".Chatroom"
+            android:label="@string/title_activity_chatroom"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

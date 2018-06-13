@@ -1,61 +1,64 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/fcde73bf7fd8493098be965ebae434fa/AndroidManifest.xml:2:1-6:12
+MERGED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:2:1-20:12
 MERGED from [com.android.support:design:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kavi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/909cfc207e7aab98c2d1131f6867c057/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/2f715686f198d980603f0a3e88121bd3/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/591b4f7e46930957be4dec2df4965fb7/AndroidManifest.xml:17:1-54:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/fbce2a891c329a36f1b23928141ca1cd/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2a81eda46af843d484eafdab2bd4e5cc/AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/4c8f6f7bc207616b193d8671b140ec07/AndroidManifest.xml:17:1-59:12
 MERGED from [com.google.firebase:firebase-common:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/7ff76c25622056cb314a70cbcd10241a/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/2ab1cec76f37fd4b68024e74f8b2595a/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1e9ed506f06dd621e5830a53daa182e8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/45034c7edf7616022ce05c7eed28981c/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59ecd344d69df0783c65fab7763b309c/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1def5b9d7aa9271c2b31e233a9d428c5/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ce7bb67ebf2c2558f882dbd90e380d9e/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/accb5d25f53e93c1d72aa02654ed5e4e/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/b085b7249eddfdd8f46867c0d2274537/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/69455b2bd3f532f03410803a8015a46f/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/02a24553fc2b2f44dc8ac771d9001fb1/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/68ddcd1c041a469497ab7618e3657ef5/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6d8a491324363899aa4fe7ec737fa0c4/AndroidManifest.xml:2:1-6:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/344ea2876d7f636fa08fd31aa889b192/AndroidManifest.xml:2:1-6:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
-		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
-		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:1-37:12
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:5:5-31:19
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:5:5-35:19
 MERGED from [com.google.firebase:firebase-core:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/fcde73bf7fd8493098be965ebae434fa/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/fcde73bf7fd8493098be965ebae434fa/AndroidManifest.xml:5:5-20
+MERGED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:13:5-18:19
+MERGED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:13:5-18:19
 MERGED from [com.android.support:design:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/AndroidManifest.xml:25:5-29:19
@@ -64,14 +67,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kavi/
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kavi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/909cfc207e7aab98c2d1131f6867c057/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/591b4f7e46930957be4dec2df4965fb7/AndroidManifest.xml:27:5-52:19
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/591b4f7e46930957be4dec2df4965fb7/AndroidManifest.xml:27:5-52:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2a81eda46af843d484eafdab2bd4e5cc/AndroidManifest.xml:27:5-38:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2a81eda46af843d484eafdab2bd4e5cc/AndroidManifest.xml:27:5-38:19
 MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/4c8f6f7bc207616b193d8671b140ec07/AndroidManifest.xml:34:5-57:19
@@ -82,6 +79,16 @@ MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/kavi/.grad
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/2ab1cec76f37fd4b68024e74f8b2595a/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1e9ed506f06dd621e5830a53daa182e8/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1e9ed506f06dd621e5830a53daa182e8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-v4:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/45034c7edf7616022ce05c7eed28981c/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/45034c7edf7616022ce05c7eed28981c/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59ecd344d69df0783c65fab7763b309c/AndroidManifest.xml:25:5-29:19
@@ -94,10 +101,6 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/kavi/.gradle/c
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/accb5d25f53e93c1d72aa02654ed5e4e/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/b085b7249eddfdd8f46867c0d2274537/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/b085b7249eddfdd8f46867c0d2274537/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/69455b2bd3f532f03410803a8015a46f/AndroidManifest.xml:5:5-20
@@ -108,10 +111,10 @@ MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/ka
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/68ddcd1c041a469497ab7618e3657ef5/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6d8a491324363899aa4fe7ec737fa0c4/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6d8a491324363899aa4fe7ec737fa0c4/AndroidManifest.xml:5:5-20
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/344ea2876d7f636fa08fd31aa889b192/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/344ea2876d7f636fa08fd31aa889b192/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
@@ -171,15 +174,25 @@ ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/ma
 	android:name
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:29:19-49
 activity#com.kavi.slidingtabs.academiclist
-ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:30:9-59
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:30:9-50
 	android:name
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:30:19-47
+activity#com.kavi.slidingtabs.Chatroom
+ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:31:9-34:68
+	android:label
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:33:13-60
+	android:theme
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml:32:13-37
 uses-sdk
 INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-core:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/fcde73bf7fd8493098be965ebae434fa/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/fcde73bf7fd8493098be965ebae434fa/AndroidManifest.xml:4:5-43
+MERGED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:7:5-9:41
+MERGED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/AndroidManifest.xml:21:5-23:78
@@ -190,14 +203,8 @@ MERGED from [com.google.firebase:firebase-database:11.8.0] /home/kavi/.gradle/ca
 MERGED from [com.google.firebase:firebase-database:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/2f715686f198d980603f0a3e88121bd3/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/591b4f7e46930957be4dec2df4965fb7/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/591b4f7e46930957be4dec2df4965fb7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/fbce2a891c329a36f1b23928141ca1cd/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/fbce2a891c329a36f1b23928141ca1cd/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2a81eda46af843d484eafdab2bd4e5cc/AndroidManifest.xml:20:5-44
@@ -210,6 +217,16 @@ MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/kavi/.grad
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/2ab1cec76f37fd4b68024e74f8b2595a/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1e9ed506f06dd621e5830a53daa182e8/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1e9ed506f06dd621e5830a53daa182e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/45034c7edf7616022ce05c7eed28981c/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/45034c7edf7616022ce05c7eed28981c/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59ecd344d69df0783c65fab7763b309c/AndroidManifest.xml:21:5-23:60
@@ -222,10 +239,6 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/kavi/.gradle/c
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/accb5d25f53e93c1d72aa02654ed5e4e/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/AndroidManifest.xml:21:5-23:58
-MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/806e9c06aa690782e3a40a5e73c56257/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/eecd1183a5630caa7475fd0ef46bab36/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/b085b7249eddfdd8f46867c0d2274537/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/b085b7249eddfdd8f46867c0d2274537/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/69455b2bd3f532f03410803a8015a46f/AndroidManifest.xml:4:5-43
@@ -236,10 +249,10 @@ MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/ka
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/68ddcd1c041a469497ab7618e3657ef5/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6d8a491324363899aa4fe7ec737fa0c4/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6d8a491324363899aa4fe7ec737fa0c4/AndroidManifest.xml:4:5-43
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/344ea2876d7f636fa08fd31aa889b192/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/344ea2876d7f636fa08fd31aa889b192/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33e218868b9893c88fd59af9b8f24e47/AndroidManifest.xml:20:5-22:41
 INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
@@ -252,16 +265,26 @@ INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 		ADDED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
 		INJECTED from /home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:11:22-77
+activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
+ADDED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:14:9-17:20
+	android:theme
+		ADDED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from [com.nbsp:library:1.8] /home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/AndroidManifest.xml:15:13-77
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0cebb4d2c5a529cbb5b131849c46fc30/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a87bf6a6ea46a03d3bd68cd9703d3971/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3013c481e51d2543e481d3f90138b093/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:transition:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5613d91216e41e9da34d5417161c8f32/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] /home/kavi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/45034c7edf7616022ce05c7eed28981c/AndroidManifest.xml:26:9-28:38

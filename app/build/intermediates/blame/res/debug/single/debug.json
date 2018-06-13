@@ -1,15 +1,19 @@
 [
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_music_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_send.xml.flat",
-        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_send.xml"
-    },
-    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ce7bb67ebf2c2558f882dbd90e380d9e/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_send.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
@@ -22,6 +26,18 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_apk_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_music_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_music_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi_query.png.flat",
@@ -40,6 +56,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_pdf_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_alert_dialog_material.xml"
     },
@@ -52,8 +72,20 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_folder_48dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_close_white_24dp.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color_design_tint_password_toggle.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_folder_48dp.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -96,12 +128,16 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_document_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
@@ -114,6 +150,14 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_edit.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_pdf_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_excel_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
@@ -144,12 +188,20 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_apk_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_document_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add.png.flat",
@@ -164,20 +216,36 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color/abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_drawing_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_pdf_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_video_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_queries.xml.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/queries.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_nonacademic_write.xml.flat",
+        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/nonacademic_write.xml"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_nonacademic_write.xml.flat",
-        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/nonacademic_write.xml"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_certificate_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
@@ -188,12 +256,12 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
-        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/color-v23/design_tint_password_toggle.xml"
-    },
-    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/color-v23/design_tint_password_toggle.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -210,6 +278,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_image_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -242,6 +314,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_camera.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-mdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_video_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi_idea.png.flat",
@@ -292,6 +368,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_music_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -320,12 +400,20 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_apk_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_zip_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
@@ -356,6 +444,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_switch_thumb_material.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_document_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_pdf.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_pdf.png"
     },
@@ -376,12 +468,24 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/academiclist.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_pdf_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_image_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_powerpoint_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -390,6 +494,14 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_drawing_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_apk_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -420,12 +532,24 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_document_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_nonacademic.xml.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/nonacademic.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_pdf_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
@@ -442,6 +566,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_like.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_like.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_close_white_24dp.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -464,12 +592,16 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_drawing_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pdf.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-mdpi/ic_pdf.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
@@ -486,6 +618,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_image_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -508,16 +644,28 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ce7bb67ebf2c2558f882dbd90e380d9e/res/layout/notification_template_media_custom.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_file_gray_116dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_file_gray_116dp.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_folder_48dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/layout/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
-        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/layout/notification_template_custom_big.xml"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_zip_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -540,12 +688,32 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_pdf_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_excel_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_word_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_image_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_certificate_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -588,6 +756,10 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-xxhdpi/query.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_video_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
     },
@@ -596,16 +768,40 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_music_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_drawing_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi_article.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-hdpi/article.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_word_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_music_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_powerpoint_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_excel_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
@@ -614,6 +810,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_excel_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -648,6 +848,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_zip_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
@@ -656,8 +860,16 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_powerpoint_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_document_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -684,12 +896,20 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/tooltip.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_image_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_certificate_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -712,6 +932,10 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/article_list.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_apk_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/drawable/navigation_empty_icon.xml"
     },
@@ -726,6 +950,14 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi_nonacademic.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-hdpi/nonacademic.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_image_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_image_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -748,8 +980,16 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_drawing_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_pdf_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
@@ -758,6 +998,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ce7bb67ebf2c2558f882dbd90e380d9e/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_video_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -812,6 +1056,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/anim/abc_popup_exit.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_file_gray_116dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_file_gray_116dp.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pdf.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_pdf.png"
     },
@@ -836,6 +1084,14 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_folder_48dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_powerpoint_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
@@ -844,8 +1100,20 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_document_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_certificate_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_certificate_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -920,8 +1188,16 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/drawable/design_password_eye.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_zip_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pdf.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_pdf.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_certificate_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
@@ -950,6 +1226,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_pdf_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
@@ -984,6 +1264,10 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/article.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_activity_file_picker.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/layout/activity_file_picker.xml"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -996,6 +1280,14 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_drawing_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_image_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_query.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-xxxhdpi/query.png"
     },
@@ -1004,24 +1296,40 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_zip_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_document_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_article_write.xml.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/article_write.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
-        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_word_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_folder_48dp.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/anim_fab_close.xml.flat",
@@ -1030,6 +1338,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_camera.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-hdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_certificate_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
@@ -1076,6 +1388,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_excel_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color/switch_thumb_material_light.xml"
     },
@@ -1090,6 +1406,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_document_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
@@ -1132,12 +1452,20 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_file_gray_116dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_file_gray_116dp.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_video_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1168,6 +1496,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_dialog_material_background.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_music_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
@@ -1182,6 +1514,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_video_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1224,6 +1560,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_music_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/drawable-xxhdpi-v4/design_ic_visibility.png"
     },
@@ -1240,6 +1580,10 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/academic.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_pdf_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1250,6 +1594,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/menu/menu.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1272,6 +1620,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_close_white_24dp.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
@@ -1286,6 +1638,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_powerpoint_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1306,6 +1662,14 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_image_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_excel_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1336,6 +1700,14 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_video_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_word_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -1352,8 +1724,28 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout-v26/abc_screen_toolbar.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_zip_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_file_gray_116dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_file_gray_116dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_powerpoint_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_certificate_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_powerpoint_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
@@ -1370,6 +1762,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_item_file.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/layout/item_file.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
@@ -1416,6 +1812,22 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_word_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_music_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_apk_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_zip_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/anim_rotate_forward.xml.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/anim/rotate_forward.xml"
     },
@@ -1446,6 +1858,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ce7bb67ebf2c2558f882dbd90e380d9e/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_folder_48dp.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1496,6 +1912,10 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/layout/design_text_input_password_icon.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_video_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -1524,6 +1944,14 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_drawing_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_word_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -1544,12 +1972,24 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/anim/abc_fade_in.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_excel_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_drawing_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_document_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
@@ -1576,6 +2016,10 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_folder_48dp.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
@@ -1590,6 +2034,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_excel_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1608,12 +2056,24 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_drawing_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color-v23/abc_tint_default.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-v21_bg_clickable.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-v21/bg_clickable.xml"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_powerpoint_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
@@ -1624,16 +2084,20 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color/abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_zip_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
-        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_like.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-ldpi/ic_like.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
@@ -1646,6 +2110,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_send.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_excel_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1674,6 +2142,14 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_chatroom.xml.flat",
+        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/chatroom.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_certificate_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
@@ -1756,12 +2232,24 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_add.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_word_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_bg_clickable.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable/bg_clickable.xml"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_apk_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_design_bottom_navigation_item_background.xml.flat",
@@ -1776,16 +2264,16 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-hdpi/ic_like.png"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
-        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/tooltip_frame_dark.xml"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi_idea.png.flat",
+        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-mdpi/idea.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi_idea.png.flat",
-        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-mdpi/idea.png"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/tooltip_frame_dark.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
@@ -1816,20 +2304,40 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_word_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_zip_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_video_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi_academic.png.flat",
-        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-xhdpi/academic.png"
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_fragment_directory.xml.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/layout/fragment_directory.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_folder_48dp.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pdf.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-hdpi/ic_pdf.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi_academic.png.flat",
+        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-xhdpi/academic.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1896,20 +2404,40 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_pdf_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxhdpi-v4/ic_pdf_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi-v8_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxxhdpi-v8/ic_powerpoint_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_excel_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_excel_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xhdpi-v4/ic_apk_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_powerpoint_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_powerpoint_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
@@ -1922,6 +2450,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_close_white_24dp.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1944,6 +2476,10 @@
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/drawable-xxhdpi/idea.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_apk_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_edit.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_edit.png"
     },
@@ -1960,6 +2496,14 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f583beb4226e43cde52f24eb9fb6b941/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_music_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-xxxhdpi-v4/ic_music_box.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_folder_48dp.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
@@ -1968,12 +2512,12 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_like.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_like.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi_academic.png.flat",
@@ -2000,8 +2544,16 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi-v8_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xxhdpi-v8/ic_word_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_projectidea.xml.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/layout/projectidea.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-mdpi-v8_ic_certificate_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-mdpi-v8/ic_certificate_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -2014,6 +2566,10 @@
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_document_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_document_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -2084,12 +2640,20 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/layout/abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_video_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_video_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_word_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_word_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -2116,12 +2680,24 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_zip_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-mdpi-v4/ic_zip_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/edbfac81614c9106ab8ab292d168b981/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_folder_48dp.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_folder_48dp.png"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-xhdpi-v8_ic_image_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-xhdpi-v8/ic_image_box.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -2164,11 +2740,19 @@
         "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b7acfa2cba442f9dfb7e933df0540e0b/res/drawable-hdpi-v4/design_ic_visibility.png"
     },
     {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-night-hdpi-v8_ic_drawing_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-night-hdpi-v8/ic_drawing_box.png"
+    },
+    {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_edit.png.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-ldpi/ic_edit.png"
     },
     {
         "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_pdf.xml.flat",
         "source": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_pdf.xml"
+    },
+    {
+        "merged": "/home/kavi/Music/Mobile_Computing/Mini_Project/SlidingTabs/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_apk_box.png.flat",
+        "source": "/home/kavi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/34fdcc59543b632783b5d69f50765797/res/drawable-hdpi-v4/ic_apk_box.png"
     }
 ]

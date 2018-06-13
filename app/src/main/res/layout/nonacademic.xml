@@ -16,40 +16,9 @@
         android:layout_gravity="bottom|end"
         android:layout_marginBottom="82dp"
         android:layout_marginEnd="27dp"
-        android:src="@drawable/ic_add" />
+        android:src="@drawable/ic_edit" />
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/fab"
-        android:layout_gravity="bottom|end"
-        android:layout_marginBottom="153dp"
-        android:src="@drawable/ic_camera"
-        android:visibility="invisible" />
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/fab"
-        android:layout_gravity="bottom|end"
-        android:layout_marginBottom="224dp"
-        android:src="@drawable/ic_edit"
-        android:visibility="invisible" />
-
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_alignStart="@+id/fab"
-        android:layout_gravity="bottom|end"
-        android:layout_marginTop="220dp"
-        android:src="@drawable/ic_photo"
-        android:visibility="invisible" />
 
     <ListView
         android:id="@+id/listviewinfo"
